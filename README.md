@@ -1,31 +1,4 @@
 # css_example
-
-# Created by https://www.toptal.com/developers/gitignore/api/visualstudiocode
-# Edit at https://www.toptal.com/developers/gitignore?templates=visualstudiocode
-
-### VisualStudioCode ###
-.vscode/*
-!.vscode/settings.json
-!.vscode/tasks.json
-!.vscode/launch.json
-!.vscode/extensions.json
-!.vscode/*.code-snippets
-
-# Local History for Visual Studio Code
-.history/
-
-# Built Visual Studio Code Extensions
-*.vsix
-
-### VisualStudioCode Patch ###
-# Ignore all local history of files
-.history
-.ionide
-
-# Support for Project snippet scope
-.vscode/*.code-snippets
-
-# Ignore code-workspaces
-*.code-workspace
-
-# End of https://www.toptal.com/developers/gitignore/api/visualstudiocode
+ 
+ Bu projede ölmeden önce okumanız gereken kitaplar listesi içeren bir web sitesi tasarlanmıştır.
+ Html ve css temel seviyede kullanılmıştır.
